@@ -1,1 +1,24 @@
-This repository contains the code and notebook for learning basic financial risk management.
+This repository contains the code and notebook for learning basic financial risk management. It contains the following notebooks:
+
+
+- Stock_analysis.ipynb
+    - Basic plotting: Candle plot, OHLC Chart
+    - Moving average: Simple moving average, Exponential moving average
+    - Trend reversal: MACD, Bollinger Bands
+    - Backtesting: PSAR strategy
+
+- Portfolio_analysis.ipynb: 
+    - Portfolio construction: Portfolio standard deviation, Portfolio returns
+    - Capital  Asset  Pricing  Model
+    - Beta 
+    - Sharpe Ratio 
+    - Traynor ratio
+    - Jensen’s  measure
+    - Alpha
+
+- VAR.ipynb:
+    - Historical VaR
+    - Historical Drawdown
+    - Analysis using ffn library
+    - Fund performances
+    - Rebasing of funds 
