@@ -5,7 +5,7 @@ This repository contains the code and notebook for learning basic financial risk
     - Basic plotting: Candle plot, OHLC Chart
     - Moving average: Simple moving average, Exponential moving average
     - Trend reversal: MACD, Bollinger Bands
-    - Backtesting: PSAR strategy
+    - Backtesting: PSAR strategy, Fast and Slow Stochastic Oscillators
 
 - Portfolio_analysis.ipynb: 
     - Portfolio construction: Portfolio standard deviation, Portfolio returns
