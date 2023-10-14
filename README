@@ -22,3 +22,8 @@ This repository contains the code and notebook for learning basic financial risk
     - Analysis using ffn library
     - Fund performances
     - Rebasing of funds 
+
+- ML_modelling.ipynb:
+    - time series modeling
+    - MA, AR Models
+    - ARIMA Models
