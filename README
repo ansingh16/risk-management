@@ -27,5 +27,7 @@ This repository contains the code and notebook for learning basic financial risk
     - time series modeling
     - MA, AR Models
     - ARIMA Models
+    - Paremetric VaR
+    - Emperical VaR
 
 
