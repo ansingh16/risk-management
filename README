@@ -6,6 +6,7 @@ This repository contains the code and notebook for learning basic financial risk
     - Moving average: Simple moving average, Exponential moving average
     - Trend reversal: MACD, Bollinger Bands
     - Backtesting: PSAR strategy, Fast and Slow Stochastic Oscillators
+    - Denoising: Kalman filters and Wavelet Transform
 
 - Portfolio_analysis.ipynb: 
     - Portfolio construction: Portfolio standard deviation, Portfolio returns
