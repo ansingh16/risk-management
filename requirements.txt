@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+ffn
+yfinance
+plotly
+pywavelets
+jupyter
