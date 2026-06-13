@@ -1,6 +1,6 @@
 # Financial Risk Management
 
-A hands-on exploration of financial risk management techniques, progressing from individual stock analysis through portfolio construction, risk measurement, and time series modeling. Each notebook builds on concepts from the previous ones, forming a coherent learning path through quantitative finance fundamentals.
+Four notebooks on quantitative risk management, working from individual stock analysis up through portfolio construction, Value at Risk, and time series models. They build on each other, so they're meant to be read in order.
 
 ## Notebooks
 
